@@ -8,5 +8,6 @@
     <orderEntry type="library" name="materialize" level="application" />
     <orderEntry type="library" name="angular" level="application" />
     <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="f6a0a9f521" level="application" />
   </component>
 </module>
