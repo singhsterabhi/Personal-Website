@@ -1,7 +1,87 @@
 .header{
-    min-height: 700px;
+    /*min-height: 700px;*/
 }
 
-h1,p{
+p,h3{
 margin:0;
 }
+
+#blinker{
+    animation: blink 1s infinite;
+}
+
+@keyframes blink{
+    to{ opacity: .0;}
+}
+
+
+#abhi{
+    font-family: 'Caveat Brush', cursive;
+    white-space:nowrap;
+    overflow: hidden;
+    /*background: red;*/
+    animation: type 1.5s steps(45, end) 1;
+    width: 400px;
+}
+
+@keyframes type{
+    from{ width: 0;}
+}
+
+.brand-logo img{
+ height: 60px;
+    padding-top: 7px;
+}
+@media screen and (min-width: 0px) {
+    body	{
+        background: url('../img/backsmall.png') no-repeat fixed top right;
+    }
+
+    #abhi{
+        font-size: 85px;
+        /*background: red;*/
+        width: 375px;
+    }
+
+    .header{
+        padding-top: 70px;
+        padding-left: 80px;
+    }
+    .header h3{
+        font-size: 50px;
+        padding-left: 12px;
+        font-family: "Microsoft JhengHei Light", sans-serif ;
+    }
+}
+
+@media screen and (min-width: 710px) {
+    body	{
+        background: url('../img/back.png') no-repeat fixed top right;
+    }
+
+    #abhi{
+        font-size: 120px;
+        width: 475px;
+    }
+
+    .header{
+            padding-top: 75px;
+        padding-left: 150px;
+    }
+    .header h3{
+        font-size: 60px;
+        padding-left: 15px;
+        font-family: "Microsoft JhengHei Light", sans-serif ;
+    }
+}
+@media screen and (max-width: 600px) {
+    nav{
+        height: 64px;
+    }
+}
+
+.header{
+
+}
+
+
