@@ -50,7 +50,7 @@ body{
 
 @media screen and (min-width: 0px) {
     body	{
-        background: url('../img/backsmall.png') no-repeat fixed top right;
+        background: url('../img/backsmall-min.png') no-repeat fixed top right;
     }
 
     #abhi{
@@ -72,7 +72,7 @@ body{
 
 @media screen and (min-width: 710px) {
     body	{
-        background: url('../img/back.png') no-repeat fixed top right;
+        background: url('../img/back-min.png') no-repeat fixed top right;
     }
 
     #abhi{
