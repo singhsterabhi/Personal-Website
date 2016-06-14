@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62da3f16-5a5f-4040-8c22-8ce4cd0de3f1" name="Default" comment="second commit">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/backsmall-min.png" afterPath="$PROJECT_DIR$/img/backsmall-min.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/backsmall.png" afterPath="$PROJECT_DIR$/img/backsmall.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/backsmall.psd" afterPath="$PROJECT_DIR$/img/backsmall.psd" />
     </list>
     <ignored path="Personal-Website.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -272,7 +270,7 @@
       <workItem from="1463942128097" duration="325000" />
       <workItem from="1465667906870" duration="629000" />
       <workItem from="1465823488901" duration="2235000" />
-      <workItem from="1465826673596" duration="25166000" />
+      <workItem from="1465826673596" duration="25683000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1463020370379</created>
@@ -285,7 +283,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34381000" />
+    <option name="totallyTimeSpent" value="34898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
