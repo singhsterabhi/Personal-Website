@@ -119,6 +119,7 @@ footer li {
 }
 
 footer ul {
+    margin: 0 10%;
     display: flex;
     justify-content: space-between;
 }
